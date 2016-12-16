@@ -1,0 +1,44 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:400,500';
+*{
+    background: #01C46D;
+}
+body {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    background: #01C46D;
+    
+}
+p{
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 13pt;
+    float: left;
+   
+    background: #01C46D;
+}
+
+
+head{
+    background: #8CC401;
+}
+li .nav-link{
+    width: 100%;
+background: #01C46D;
+    float: inherit;
+}
+nav{
+    background: #01C46D;
+}
+h1, h2{
+   background: #8CC401;
+    padding-bottom: 20px
+}
+li .ul{
+    float: left;
+}
+ol{ 
+float: left;
+}
+
+footer{
+    font-size: 8px;
+    
+}
